@@ -10,4 +10,6 @@
     8. To clone the repository,  int terminal ---> git clone ---> now in the github, copy the path under clone or download and then paste it in the --> terminal
     9. now the respositiory will be created under the disrectory and we  can create a type of file we wanted within it.
     187qujisakmzsdj
-duwjk,sx
+duwjk,sxjcnlksdmclkml3
+
+dijlsd,
