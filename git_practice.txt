@@ -1,0 +1,12 @@
+    1. Install git in linux  - sudo apt-get install git
+    2. check git version -  git --version
+    3. Add configuration,  git config --global user.name "Jayavarshne" ,   git config --global user.email "jayavarshne.s@yantravision.com"
+    4. To list the configuration that we added -   git config --list
+       o/p user.name=Jayavarshne
+       user.email=jayavarshne.s@yantravision.com
+    5. Now see whether the gitconfig file is created using ls command
+    6. to open the gitconfig file -   gedit .gitconfig  /// it opens the file in the editior which we asked gave.
+    7. To create new folder in github, go to Add file --> create new file --> type folder name press / then type the file name which is to e created within it.
+    8. To clone the repository,  int terminal ---> git clone ---> now in the github, copy the path under clone or download and then paste it in the --> terminal
+    9. now the respositiory will be created under the disrectory and we  can create a type of file we wanted within it.
+    10. If we created a c++ file and to get the status -- > git status --> this command show the file name,, only if there is no error. Whether the current branch is up to date - anything to commit, push or pull, if files staged, unstaged or untracked, if files created, modified or deleted --> the file name will be displayed in red.
